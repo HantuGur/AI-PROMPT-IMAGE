@@ -1,0 +1,22 @@
+# Environment variables (JANGAN pernah upload ini ke GitHub!)
+.env
+*.env
+
+# File hasil generate (opsional, bisa di-ignore)
+prompt_*.txt
+batch_prompts.txt
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
